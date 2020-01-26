@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Design Navegacao</string>
+    <string name="home_string">Home</string>
+    <string name="info_string">Informar</string>
+    <string name="nav_string">Navegar</string>
+
+    <string name="informacao">Você está no Infnet!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
